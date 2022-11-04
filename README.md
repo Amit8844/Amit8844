@@ -1,5 +1,5 @@
 
-![giphy](https://user-images.githubusercontent.com/95414680/199917077-9991a1b3-3517-49c7-ae73-3d3fac2194d3.gif)</p>
+![01Techfix-print-superJumbo](https://user-images.githubusercontent.com/95414680/199918664-09f7476a-7ec1-456b-aeb9-77ec5b2ce9f7.gif)
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
 <h3 align="center">A passionate Game developer / programmer</h3>
 
