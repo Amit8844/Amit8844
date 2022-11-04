@@ -1,6 +1,6 @@
 
 ![01Techfix-print-superJumbo](https://user-images.githubusercontent.com/95414680/199918664-09f7476a-7ec1-456b-aeb9-77ec5b2ce9f7.gif)
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Righteous&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+!!!+;My+name+is+Amit+Singh;I'm+a+Game+Developer;Nice+meeting+you!!!....)]
+![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Righteous&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+!!!+;My+name+is+Amit+Singh;I'm+a+Game+Developer;Nice+meeting+you!!!....)
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
 <h3 align="center">A passionate Game developer / programmer</h3>
 
@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit8844&" alt="amit8844" /></p>
 ## Contribution Graph 🐍
-![snake gif](https://github.com/mppavan05/mppavan05/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Amit8844/Amit8844/blob/output/github-contribution-grid-snake.gif)
