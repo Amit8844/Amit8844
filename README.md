@@ -1,4 +1,4 @@
-![Game](https://user-images.githubusercontent.com/95414680/199916299-256ff810-1cdd-42ec-a676-972a44531fc6.gif)
+   ![Game](https://user-images.githubusercontent.com/95414680/199916299-256ff810-1cdd-42ec-a676-972a44531fc6.gif)
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
 <h3 align="center">A passionate Game developer / programmer</h3>
 
