@@ -1,4 +1,4 @@
-
+![giphy](https://user-images.githubusercontent.com/95414680/199917077-9991a1b3-3517-49c7-ae73-3d3fac2194d3.gif)
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
 <h3 align="center">A passionate Game developer / programmer</h3>
 
